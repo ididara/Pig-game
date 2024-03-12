@@ -1,2 +1,3 @@
-# Pig-game
-Pig-game - game from course
+This is the game which i made following Udemy course. HTML and CSS files were pre-made, not made by myself.
+Rules of the game are: Player is rolling the dice and his scores are adding as long as he either saves them, or gets number 1. If he holds it, it goes to the big score. If he gets number 1 while rolling the dice, all the current added score is going back to 0. When he decides do hold the score, or gets 1, second player start his turn, by the same rules. Point of the game is to get to the score of 100, and the first player who manages to do so, wins the game,.
+There are 3 buttons in the game: New game - that button compeltely resets the game; Roll dice - rolling the dice; Hold - when presesed, all the current score goes "up" in the big score which multiplies until he gets to the final number of 100 or above.
